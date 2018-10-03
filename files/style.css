@@ -1,0 +1,27 @@
+aside {
+    float:left;
+    background-color: dimgray; 
+    width: 30%;
+    padding: 20% 0%;
+    overflow: hidden;
+}
+
+.button {
+    padding: 0px;
+    margin: 4px 30%;
+    text-align: center;
+    background-color: white;
+    overflow: hidden;
+}
+
+main {
+    float:left;
+    margin-left: 20px;
+}
+
+.employeeBox {
+    border:3px solid #dddddd;
+    width: 500px;
+    margin: 20px 0px;
+    padding: 10px;
+}
